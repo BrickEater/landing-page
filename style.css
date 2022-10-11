@@ -1,0 +1,10 @@
+.sections {
+    display: flex;
+}
+
+.sections div {
+    background: blue;
+    border: 20px pink;
+    height: 100px;
+    flex: 1;
+}
