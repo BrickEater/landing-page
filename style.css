@@ -1,15 +1,26 @@
-.sections {
-    display: flex;
+.section {
+    background-color:white;
+    height:100px;
+    display:flex;
+    flex:1 1 0%;
     flex-direction: column;
-}
-
-.sections div {
-    background: blue;
-    border: 20px solid pink;
-    height: 100px;
-    flex: 1 1 auto;
+    align-items: stretch;
 }
 
 .header {
-    flex-direction: row;
+    display:flex;
+    background-color: grey;
+    height:50px;
+}
+
+.one {
+    background-color:#1f2937;
+}
+.three {
+    background-color:#E5E7EB;
+}
+
+.footer {
+    background-color: grey;
+    height:50px;
 }
