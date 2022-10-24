@@ -2,6 +2,9 @@
 A landing page to practice front end web design
 
 
+
+24/10/2022 - Before I forget, I used Lorem Ipsum in my code today to generate placeholder text and it's fucking cool. I finally feel like I'm getting somewhere with this stuff. Learning the structure has made me feel like I am actually doing something. It's probably because you can see the results after making it. Well... It also feels like you should build the structure of a house before you put the plumbing and wiring in.
+
 23/10/2022 - I started over with the CSS structure. After watching a beginners guide for grid I have a better understanding on what I need to do. It actually feels really good and I think this will go much faster if I exclusively use grid instead of grid and flexbox combined.
 
 21/10/2022 - I tried using the grid display but I'm getting an error that makes it seem the browser doesn't even recognize the code. I know it understands 'display:grid' but it didn't like the grid structure I made.
