@@ -36,11 +36,15 @@ body {
 .sec1 {
     display: grid;
     grid-template-columns: 1fr 2fr 2fr 1fr;
-    grid-area
+    grid-template-areas:
+        ". a b .";
     background-color: #1f2937;
 }
 
-.sec1 .sec1-para
+.sec1 .sec1-para {
+    grid-area: a;
+    color: white;
+}
 
 
 
