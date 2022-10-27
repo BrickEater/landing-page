@@ -19,20 +19,10 @@ body {
 }
 /* ^^^I know that the logo and links are justified to the left and right but I don't want want to fuck around with this anymore.
  */
-.links .link1 {
+.links .link {
     padding: 10px;
 }
 
-.links .link2 {
-    padding: 10px;
-}
-
-.links .link3 {
-    padding: 10px;
-}
-
-/* ^^^^^^ This seems like a dumb way to add padding to three elements within one parent div
- */
 .sec1 {
     display: grid;
     grid-template-columns: 1fr 2fr 2fr 1fr;
@@ -46,7 +36,20 @@ body {
     color: white;
 }
 
+.sec1 .sec1-img {
+    grid-area: b;
+    margin: 20px;
+    background-color: grey;
+    color: white;
+    font-size: x-small;
+}
 
+.sec1-img p {
+    padding: 10px;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+}
 
 
 

@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+27/10/2022 - The objects within column a and b are suppose to be aligned to the left and right and when I noticed I had already started committing to what I was doing. I see now that it's annoying to not do it like that but I'm to lazy to change it. Also, I don't know why the text in the image section isn't aligning to true center. Lastly, when changing the size of the window, the boxes will breach their parent boxes.
+
 25/10/2022 - I placed the text into section 1 but it's not fitting itself into the box. It is forcing itself out of the div and I need to look up how to make the box flex or the text shrink... Probably the box stretch but I should reduce the size and weight of the font too.
 
 24/10/2022 - Before I forget, I used Lorem Ipsum in my code today to generate placeholder text and it's fucking cool. I finally feel like I'm getting somewhere with this stuff. Learning the structure has made me feel like I am actually doing something. It's probably because you can see the results after making it. Well... It also feels like you should build the structure of a house before you put the plumbing and wiring in.
