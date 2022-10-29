@@ -1,6 +1,9 @@
 # landing-page
 A landing page to practice front end web design
 
+
+28/20/2022 - I realized that having a basic structure that everything lives within is probably the best way to go about this. I started a second style sheet to see if I can figure this out starting from the bottom but it isn't going so well. I'm going to work on creating a grid that everything lives in first and from there build boxes within that.
+
 27/10/2022 - The objects within column a and b are suppose to be aligned to the left and right and when I noticed I had already started committing to what I was doing. I see now that it's annoying to not do it like that but I'm to lazy to change it. Also, I don't know why the text in the image section isn't aligning to true center. Lastly, when changing the size of the window, the boxes will breach their parent boxes.
 
 25/10/2022 - I placed the text into section 1 but it's not fitting itself into the box. It is forcing itself out of the div and I need to look up how to make the box flex or the text shrink... Probably the box stretch but I should reduce the size and weight of the font too.

@@ -1,0 +1,121 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 50px repeat(4, 250px) 50px;
+    grid-template-columns: 1fr 3fr 3fr 1fr;
+    grid-template-areas: 
+        "margin column-a column-b margin";
+}
+
+.header {
+    display: grid;
+    grid-area: column-a, column-b;
+/*     grid-template-columns: 1fr 1fr;
+ */    justify-items: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    font-weight: 24px;
+}
+/* ^^^I know that the logo and links are justified to the left and right but I don't want want to fuck around with this anymore.
+ */
+.links .link {
+    padding: 10px;
+}
+
+.sec1 {
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 1fr;
+    grid-template-areas:
+        ". a b .";
+    background-color: #1f2937;
+}
+
+.sec1 .sec1-para {
+    grid-area: a;
+    color: white;
+}
+
+.sec1 .sec1-img {
+    grid-area: b;
+    margin: 20px;
+    background-color: grey;
+    color: white;
+    font-size: x-small;
+}
+
+.sec1-img p {
+    padding: 10px;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+
+.section {
+    background-color:white;
+    height:300px;
+    display:flex;
+    flex:1 1 0%;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.header {
+    display:flex;
+}
+.header div {
+    
+    font-weight: 24px;
+    color:#f9faf8;
+    text-align: center;
+    height:50px;
+    background-color: #1f2937;
+    height:50px;
+    flex: 1 1 auto;
+}
+
+.links {
+    display: grid;
+    grid-template-areas:
+        "a b c";
+    place-items: center;
+}
+
+.one {
+    background-color:#1f2937;
+}
+.three {
+    background-color:#E5E7EB;
+}
+
+.footer {
+    background-color: grey;
+    height:50px;
+} */
