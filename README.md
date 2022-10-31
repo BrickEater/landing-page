@@ -1,6 +1,9 @@
 # landing-page
 A landing page to practice front end web design
 
+31/10/2022 - I'm over it for now though I think I need to give a div to each grid cell so I can associate it ith a class if need be. Seems like they did that in this link: https://www.w3schools.com/css/tryit.asp?filename=trycss_template2_grid
+
+31/10/2022 - I'm lazy today and a bit annoyed so I want to get my ideas out before starting. I think I want to be able to lay the structure and the basic text size/weight out before even filling the page. It only makes sense to me if you are using this style sheet for multiple pages to lay it out before anything else and then fill in the blanks. Step one will be to lay out the basic grid and somehow attach boxes to that parent grid. From there I want to have grids within the parent grid but I feel like this is where things fall apart. Lastly (kinda) I want the child grids to never break the parent grids boarders. Oh, and I want the boxes to grow to fit the element. I have text spilling over at this point. Ok, last last comment: I feel like I should have some default colours that I use when laying everything out to, 1. create visual separation and 2. show me what I still need to work on.
 
 28/20/2022 - I realized that having a basic structure that everything lives within is probably the best way to go about this. I started a second style sheet to see if I can figure this out starting from the bottom but it isn't going so well. I'm going to work on creating a grid that everything lives in first and from there build boxes within that.
 
