@@ -5,30 +5,27 @@
     grid-template-rows: 50px repeat(4, 250px) 50px;
     grid-template-columns: 1fr 3fr 3fr 1fr;
     grid-template-areas: 
-        ". a b ."
-        ". c d ."
-        ". e f ."
-        ". g h ."
-        ". i j ."
-        ". k l .";
+        ". logo links ."
+        ". a1 a2 ."
+        ". b1 b2 ."
+        ". c1 c2 ."
+        ". d1 d2 ."
+        ". e1 e2 .";
 }
 
-/* for separation colours I'll use red and blue with dark red and blue as sections that should be empty */
-
-/* Background colours */
-.even-sec {
-    background-color: lightcoral;
+.logo {
+    grid-area: logo;
+    justify-self: center;
 }
-
-.odd-sec {
-    background-color: lightblue;
+.links {
+    grid-area: links;
+    justify-self: center;
 }
-
-/* Defining areas */
-
-.header {
-    grid-area: . a b .;
+.a1 {
+    grid-area: a1;
+    justify-self: left;
 }
-.sec1 {
-    grid
+.a2 {
+    grid-area: a2;
+    justify-self: right;
 }
