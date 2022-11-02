@@ -15,11 +15,11 @@
 
 .logo {
     grid-area: logo;
-    justify-self: center;
+    justify-self: left;
 }
 .links {
     grid-area: links;
-    justify-self: center;
+    justify-self: right;
 }
 .a1 {
     grid-area: a1;

@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+02/11/2022 - Grid is confusing but I think I'm getting it. I think I will try grids within grids next time. Lay out a grid of just the rows so that I can target the background-color of each row. Then make grids within each row to custom fit where I want the elements to sit within each row. Also, I should mention that I came across an article saying that grid should be used with flexbox, not replace it. I'll have to learn flexbox better.
+
 01/11/2022 - I started from scratch because I realized I was thinking about this all wrong. I don't need as many divs as I thought it did and I don't need parent divs.
 
 31/10/2022 - I'm over it for now though I think I need to give a div to each grid cell so I can associate it ith a class if need be. Seems like they did that in this link: https://www.w3schools.com/css/tryit.asp?filename=trycss_template2_grid
