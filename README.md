@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+03/11/2022 - I had to use the command "git checkout -b [branch name]" to change my push direction... I guess that's how you refer to it... It worked and I'm happy lol.
+
 03/11/2022 - I made a branch but now I'm confused... I guess I just push my experimental stuff to my new branch. Though, I don't quite understand the command "git push origin main". I need to know what "origin" means in that context.
 
 03/11/2022 - I want to try making a different layout. I have been fooling around with grid display but now I think I should come back to flexbox. To do this initially, I tried making copies of the index and style sheet but I now know that I should make branches in git. I'll try making a branch today to work on this new idea. It looks like I have already made a mess with my experimentation but this skill will probably lead to more thorough exploration and documentation. The one thing I wonder about is keeping the README for the main branch so when I update a new branch with README entries it is consistent.
