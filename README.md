@@ -1,6 +1,10 @@
 # landing-page
 A landing page to practice front end web design
 
+04/11/2022 - the divs for margins works and adding flex display for child divs was working pretty good except that when I make the flex direction into columns it seems to ignor the justify-content: right attribute. When I inspect the <p> tag I can see that it defaulted back to a block display but I'm not sure why.
+
+04/11/2022 - I realized I could make divs for the margins and give a second class for each tag in the same row so that I could target all of them with background-color. It worked but justify-items would make it so the color would only paint the element and not the entire grid area.
+
 03/11/2022 - I had to use the command "git checkout -b [branch name]" to change my push direction... I guess that's how you refer to it... It worked and I'm happy lol.
 
 03/11/2022 - I made a branch but now I'm confused... I guess I just push my experimental stuff to my new branch. Though, I don't quite understand the command "git push origin main". I need to know what "origin" means in that context.

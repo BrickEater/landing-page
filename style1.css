@@ -6,26 +6,36 @@
     grid-template-columns: 1fr 3fr 3fr 1fr;
     grid-template-areas: 
         ". logo links ."
-        ". a1 a2 ."
+        ". hero1 hero2 ."
         ". b1 b2 ."
         ". c1 c2 ."
         ". d1 d2 ."
         ". e1 e2 .";
 }
 
+.header {
+    background-color: #1F2937;
+}
+
 .logo {
     grid-area: logo;
-    justify-self: left;
+    display: flex;
+    justify-content: left;
 }
 .links {
     grid-area: links;
-    justify-self: right;
+    display: flex;
+    justify-content: right;
 }
-.a1 {
-    grid-area: a1;
-    justify-self: left;
+.hero1 {
+    grid-area: hero1;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
 }
-.a2 {
-    grid-area: a2;
-    justify-self: right;
+.hero2 {
+    grid-area: hero2;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
 }
