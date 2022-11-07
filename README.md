@@ -1,9 +1,11 @@
 # landing-page
 A landing page to practice front end web design
 
+07/11/2022 - Sick today but I wanted to keep the habit of coding going. I placed row2 and row3 down. I feel like having a standardized cell naming system would be good for the future. Placing the div by grid then using flex to manipulate things within it is working great right now. I'm really happy with it so far.
+
 06/11/2022 - The first two rows are now done and I'm very happy with them. The next row looks like it doesn't need the two center columns but a single center column with everything aligned to center. Also, I should finish reading this: https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/ because I need to understand this a bit better. I'm not sure if updating the first line of my stylesheet with a * instead of body made a difference but suddenly the website worked the way I expected it to. It makes me think that when I refresh the page it doesn't always pull the new information.
 
-04/11/2022 - the divs for margins works and adding flex display for child divs was working pretty good except that when I make the flex direction into columns it seems to ignor the justify-content: right attribute. When I inspect the <p> tag I can see that it defaulted back to a block display but I'm not sure why.
+04/11/2022 - the divs for margins works and adding flex display for child divs was working pretty good except that when I make the flex direction into columns it seems to ignore the justify-content: right attribute. When I inspect the <p> tag I can see that it defaulted back to a block display but I'm not sure why.
 
 04/11/2022 - I realized I could make divs for the margins and give a second class for each tag in the same row so that I could target all of them with background-color. It worked but justify-items would make it so the color would only paint the element and not the entire grid area.
 
