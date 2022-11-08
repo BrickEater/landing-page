@@ -54,10 +54,28 @@
 .info {
     grid-area: info;
     display: flex;
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
     justify-content: center;
 }
 
 .row3 {
     background-color: #e5e7eb;
     color: white;
+}
+
+.t-nails {
+    display: flex;
+    justify-content: center;
+}
+
+.tbox {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
 }

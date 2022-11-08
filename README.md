@@ -1,6 +1,10 @@
 # landing-page
 A landing page to practice front end web design
 
+08/11/2022 - I'm getting very close to finishing and it is finally feeling like it's coming along. I need to import some custom made buttons but besides that I feel like I won't have any further issues.
+
+08/11/2022 - I don't want my CSS to look like a grocery list anymore and I suspect SASS will help with that. I should put some time into learning SASS just to understand what it is and how it's applied.
+
 07/11/2022 - Sick today but I wanted to keep the habit of coding going. I placed row2 and row3 down. I feel like having a standardized cell naming system would be good for the future. Placing the div by grid then using flex to manipulate things within it is working great right now. I'm really happy with it so far.
 
 06/11/2022 - The first two rows are now done and I'm very happy with them. The next row looks like it doesn't need the two center columns but a single center column with everything aligned to center. Also, I should finish reading this: https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/ because I need to understand this a bit better. I'm not sure if updating the first line of my stylesheet with a * instead of body made a difference but suddenly the website worked the way I expected it to. It makes me think that when I refresh the page it doesn't always pull the new information.
