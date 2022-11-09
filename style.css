@@ -79,3 +79,14 @@
     width: 100px;
     height: 100px;
 }
+
+.ttext {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.sm-font {
+    font-weight: 100;
+}

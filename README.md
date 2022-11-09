@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+09/11/2022 - I added text bellow the thumbnail boxes. For alignment purposes I needed to put both the text divs and the box divs into another parent div so they stocked on top of each other nicely.
+
 08/11/2022 - I'm getting very close to finishing and it is finally feeling like it's coming along. I need to import some custom made buttons but besides that I feel like I won't have any further issues.
 
 08/11/2022 - I don't want my CSS to look like a grocery list anymore and I suspect SASS will help with that. I should put some time into learning SASS just to understand what it is and how it's applied.
