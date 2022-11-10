@@ -64,7 +64,6 @@
 
 .row3 {
     background-color: #e5e7eb;
-    color: white;
 }
 
 .t-nails {
@@ -89,4 +88,22 @@
 
 .sm-font {
     font-weight: 100;
+}
+
+.quote {
+    grid-area: quote;
+    display: flex;
+    flex-direction: column;
+}
+
+.qbox {
+    margin: 100px;
+}
+.quote-text {
+    font-weight: 100;
+    font-style: italic;
+
+}
+.quoted {
+    text-align: right;
 }

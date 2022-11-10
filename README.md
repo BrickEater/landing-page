@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+10/11/2022 - Today was really good. I felt like I knew exactly how to accomplish what I was setting out to do and when I needed to look something up my suspicions of what the solution I was looking for were correct. I feel like I'm starting to get the hang of this and it's a big relief. 
+
 09/11/2022 - I added text bellow the thumbnail boxes. For alignment purposes I needed to put both the text divs and the box divs into another parent div so they stocked on top of each other nicely.
 
 08/11/2022 - I'm getting very close to finishing and it is finally feeling like it's coming along. I need to import some custom made buttons but besides that I feel like I won't have any further issues.
