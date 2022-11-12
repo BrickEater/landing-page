@@ -1,6 +1,8 @@
 # landing-page
 A landing page to practice front end web design
 
+12/11/2022 - Finally finished the website to a level that I'm happy with. I am going to move on to learning JS and react and leave this stuff for a while. I'm proud of how it looks and I'm glad the last few things I needed to add made a lot of sense to me and I wasn't confused on the process. I do think that the grocery list CSS looks bad and is annoying but I'm not sure how to assign all the things early so that I can reference then instead of repeating myself a lot.
+
 10/11/2022 - Today was really good. I felt like I knew exactly how to accomplish what I was setting out to do and when I needed to look something up my suspicions of what the solution I was looking for were correct. I feel like I'm starting to get the hang of this and it's a big relief. 
 
 09/11/2022 - I added text bellow the thumbnail boxes. For alignment purposes I needed to put both the text divs and the box divs into another parent div so they stocked on top of each other nicely.

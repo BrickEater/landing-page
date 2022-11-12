@@ -12,8 +12,8 @@
         ". hero1 hero2 ."
         ". info info ."
         ". quote quote ."
-        ". d1 d2 ."
-        ". e1 e2 .";
+        ". cta cta ."
+        ". foot foot .";
 }
 
 .header {
@@ -106,4 +106,52 @@
 }
 .quoted {
     text-align: right;
+}
+
+.row4 {
+    background-color: white;
+}
+
+.cta {
+    grid-area: cta;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 30px;
+    color: white;
+}
+
+.cta-text {
+    font-weight: 100;
+    margin: 15px;
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    height:20px;
+    border: 1px white solid;
+    border-radius: 5px;
+    width: fit-content;
+    font-weight: 100;
+    margin: 5px;
+}
+
+.row5 {
+    background-color:#1F2937;
+}
+
+.foot {
+    grid-area: foot;
+    display:flex;
+    justify-content: center;
+    color: white;
+    font-weight:100;
 }
